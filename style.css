@@ -1,3 +1,9 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(0, 0, 0);
+}
+h1 {
+font-size: 100px;
+color:rgb(250, 3, 147);
+text-transform: uppercase;
+
 }
