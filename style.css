@@ -1,18 +1,21 @@
-bbody {
+body {
     background-color: #111111;
-    color: rgb(12, 67, 114);
-    text-align: center; /* Deixa os títulos e vídeos bem centralizados! */
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Arial Black', Gadget, sans-serif;
 }
 
 h1 {
-    font-size: 80px;
-    color: rgb(250, 3, 147);
+    font-size: 70px;
+    color: #00ff87;
     text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-top: 20px;
 }
 
 h2 {
     color: #ffd700;
-    font-size: 35px;
+    font-size: 32px;
     margin-top: 40px;
 }
 
